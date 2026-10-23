@@ -252,7 +252,7 @@ Try the simplified rules and alternative interactions, compare their effects on 
 - **User research.** Interviews showed that the hard part of group formation is the first approach, not finding people. Students cannot tell who still needs a group, approaching a table risks a visible refusal, and reliability stays invisible until the project starts. An online looking-for-group thread had existed, but "barely anyone used it".
 - **Experience requirements.** Seven requirements, ER1–ER7, including a legitimate reason to interact (ER1), keeping the game's rhythm (ER2), passing without penalty (ER4) and contact that is never automatic (ER7).
 - **Early prototype: Iteration 1 (V1).** A five-player companion app with a facilitator view, a public board and a private phone view. Players were secretly split into red and blue alliances, and a random rule appeared every three rounds.
-- **Evaluation.** A formative playtest and design review ([notes](https://github.com/wpeng27/DECO3500_Team_8/blob/main/Feedbacks%28Testing%29/Icebreaker_UNO_Design_Review_Notes.md)).
+- **Evaluation.** A formative playtest and design review ([notes](https://github.com/zhifengStephen/DECO3500_Team_8/blob/main/Feedbacks%28Testing%29/Icebreaker_UNO_Design_Review_Notes.md)).
 
 **Outcomes**
 
@@ -410,7 +410,7 @@ The team agreed to focus subsequent work on the system, phone interaction, and e
 
 **State**
 
-- [Final prototype test](https://github.com/wpeng27/DECO3500_Team_8/blob/main/Feedbacks%28Testing%29/Icebreaker%20UNO%20Final%20Prototype%20Feedback.md) (3 participants).
+- [Final prototype test](https://github.com/zhifengStephen/DECO3500_Team_8/blob/main/Feedbacks%28Testing%29/Icebreaker%20UNO%20Final%20Prototype%20Feedback.md) (3 participants).
 - Final poster and interaction flow diagram.
 - V6 deployed at https://icebreaker-uno-v6.zhifeng-cheng.workers.dev, and the README rewritten with usage instructions.
 - Design Process Overview and Ethical Considerations published on the WIKI.

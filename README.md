@@ -2,6 +2,8 @@
 
 **DECO3500 Social & Mobile Computing · Semester 2, 2026 · Team 8 (Ice Breaker)**
 
+> This is a mirror of the team repository [wpeng27/DECO3500_Team_8](https://github.com/wpeng27/DECO3500_Team_8), kept by Zhifeng Cheng. Issues were not copied; they remain on the original repository.
+
 Icebreaker UNO is a hybrid physical–digital icebreaker for the moment a tutor says *"form your groups"*. Up to four unfamiliar students play UNO with real cards around one shared screen. Playing an action card lets you draw an optional question about study habits or teamwork; when two players' answers match, their corner colours move closer and their phones chime, giving them a natural reason to talk. After 10 minutes, the screen shows how similar each pair's answers were, so you can decide whether to keep talking or form a team without having to approach strangers cold.
 
 ![Icebreaker UNO poster](poster_related/images/Poster.png)
@@ -46,7 +48,7 @@ The final prototype is Iteration 5, in [`Prototypes/icebreaker_UNO_Version6(shar
 Only needed for development, or if the live link is unavailable. Requires Node.js 22.13 or later.
 
 ```sh
-git clone https://github.com/wpeng27/DECO3500_Team_8.git
+git clone https://github.com/zhifengStephen/DECO3500_Team_8.git
 cd "DECO3500_Team_8/Prototypes/icebreaker_UNO_Version6(shared_screen_Advanced)"
 npm run install:ci
 npm run build
@@ -108,7 +110,7 @@ The [social & mobile framing](poster_related/texts/social&mobile.md) maps these 
 | [`Feedbacks(Testing)/`](Feedbacks%28Testing%29/) | User evaluations: [design review](Feedbacks%28Testing%29/Icebreaker_UNO_Design_Review_Notes.md), [comparative test](Feedbacks%28Testing%29/Icebreaker_UNO_Comparative_Testing_Feedback.md), [feature test](Feedbacks%28Testing%29/Icebreaker_UNO_Feature_Test_Feedback.md), [interaction test](Feedbacks%28Testing%29/Icebreaker_UNO_Interaction_Test_Feedback.md) and [final prototype test](Feedbacks%28Testing%29/Icebreaker%20UNO%20Final%20Prototype%20Feedback.md) |
 | [`poster_related/`](poster_related/) | Poster, diagrams, decoration images and poster text |
 | [`Team_Charter/`](Team_Charter/) | Team charter: roles, communication and conflict-resolution plan |
-| [`Wiki_Drafts/`](Wiki_Drafts/) | Drafts of the [WIKI](https://github.com/wpeng27/DECO3500_Team_8/wiki) pages: [design process overview](Wiki_Drafts/Design_Process_Overview.md), [ethical considerations](Wiki_Drafts/Ethical_Considerations.md) and [stand-up records](Wiki_Drafts/Stand_up_Records.md), plus prototype screenshots |
+| [`Wiki_Drafts/`](Wiki_Drafts/) | Drafts of the [WIKI](https://github.com/zhifengStephen/DECO3500_Team_8/wiki) pages: [design process overview](Wiki_Drafts/Design_Process_Overview.md), [ethical considerations](Wiki_Drafts/Ethical_Considerations.md) and [stand-up records](Wiki_Drafts/Stand_up_Records.md), plus prototype screenshots |
 
 ## Prototype history
 
@@ -134,7 +136,7 @@ Folder names keep the team's working version numbers, shown in brackets.
 
 ### Task management
 
-For most of the semester, we divided and followed up tasks in our team WeChat group. In the final weeks, we moved the remaining tasks to [GitHub issues](https://github.com/wpeng27/DECO3500_Team_8/issues). The [WIKI](https://github.com/wpeng27/DECO3500_Team_8/wiki) records our stand-ups, design process and ethical considerations.
+For most of the semester, we divided and followed up tasks in our team WeChat group. In the final weeks, we moved the remaining tasks to [GitHub issues on the original repository](https://github.com/wpeng27/DECO3500_Team_8/issues). The [WIKI](https://github.com/zhifengStephen/DECO3500_Team_8/wiki) records our stand-ups, design process and ethical considerations.
 
 ## External links
 
